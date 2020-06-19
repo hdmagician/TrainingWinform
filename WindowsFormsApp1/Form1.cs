@@ -17,12 +17,12 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
-        private void 새파일NToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            textBox1.Text += 새파일NToolStripMenuItem.Text + Environment.NewLine;
-            ToolStripComboBox1.Text = 새파일NToolStripMenuItem.Text;
-            // 실제 새파일 로직 집어넣어야 함
-        }
+        //private void 새파일NToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+        //    textBox1.Text += 새파일NToolStripMenuItem.Text + Environment.NewLine;
+        //    ToolStripComboBox1.Text = 새파일NToolStripMenuItem.Text;
+        //    // 실제 새파일 로직 집어넣어야 함
+        //}
 
         private void 열기OToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -52,10 +52,10 @@ namespace WindowsFormsApp1
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            ToolStripComboBox1.Text = 새파일NToolStripMenuItem.Text;
-        }
+        //private void Form1_Load(object sender, EventArgs e)
+        //{
+        //    ToolStripComboBox1.Text = 새파일NToolStripMenuItem.Text;
+        //}
     }
 }
 

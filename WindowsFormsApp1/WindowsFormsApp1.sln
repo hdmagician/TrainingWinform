@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerApp", "..\TimerApp\Tim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicApp", "..\GraphicApp\GraphicApp.csproj", "{B06B388E-0A7A-45B6-BF0B-01E4EDA801ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartControlApp", "..\ChartControlApp\ChartControlApp.csproj", "{0E67DB91-8D78-4B73-AAFB-70EA6D631157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookRentalShop20", "..\BookRentalShop20\BookRentalShop20.csproj", "{6FD0EB3B-F9B1-4DBB-83C6-81C81D6C9B49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{B06B388E-0A7A-45B6-BF0B-01E4EDA801ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B06B388E-0A7A-45B6-BF0B-01E4EDA801ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B06B388E-0A7A-45B6-BF0B-01E4EDA801ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E67DB91-8D78-4B73-AAFB-70EA6D631157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E67DB91-8D78-4B73-AAFB-70EA6D631157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E67DB91-8D78-4B73-AAFB-70EA6D631157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E67DB91-8D78-4B73-AAFB-70EA6D631157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD0EB3B-F9B1-4DBB-83C6-81C81D6C9B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD0EB3B-F9B1-4DBB-83C6-81C81D6C9B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD0EB3B-F9B1-4DBB-83C6-81C81D6C9B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD0EB3B-F9B1-4DBB-83C6-81C81D6C9B49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
